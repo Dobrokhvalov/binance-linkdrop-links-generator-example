@@ -1,4 +1,5 @@
 # binance-linkdrop-links-generator-example
+NodeJS example app using [Linkdrop SDK](https://github.com/LinkdropProtocol/linkdrop-sdk) to generate claim links on Binance chain
 
 ## Install
 ```bash
